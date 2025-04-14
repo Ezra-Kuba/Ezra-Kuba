@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ezra-Kuba
-- Aspiring quant
+- Yeah Yeah Yeah
 
 <!---
 Ezra-Kuba/Ezra-Kuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
